@@ -1,4 +1,3 @@
-# Project 5
 
 # Building Generative AI Applications with Amazon Q and Enhancing Knowledge Bases with Amazon Q Business
 
